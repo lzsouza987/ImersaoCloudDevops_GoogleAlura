@@ -72,4 +72,7 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 **Comando para criar a imagem no docker**
 docker build -t api_imersao_alura .
 
+keys:
+a1: marvel
+
 
