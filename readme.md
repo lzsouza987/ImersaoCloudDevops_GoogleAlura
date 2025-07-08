@@ -67,6 +67,24 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 
 ---
 
+## Autenticando no Google Cloud
+
+```sh
+gcloud auth login
+gcloud config set project PROJECT_ID
+gcloud run deploy --port=8000
+
+--> Endereço de teste da aplicação:
+https://api-imersao-alura-783366590677.southamerica-east1.run.app/docs
+
+Aula 4 Masterclass:
+https://youtu.be/Is29ghAMSvY
+
+Aula encerramento
+https://youtu.be/N_eKawJPa10
+```
+---
+
 ## Annotações Luiz
 
 **Comando para criar a imagem no docker**
